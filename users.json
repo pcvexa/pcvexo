@@ -11,6 +11,24 @@
       "password": "1234",
       "expiry": "2026-04-25",
       "deviceId": ""
+    },
+    {
+      "username": "user2",
+      "password": "1234",
+      "expiry": "2026-04-25",
+      "deviceId": ""
+    },
+    {
+      "username": "user2",
+      "password": "1234",
+      "expiry": "2026-04-25",
+      "deviceId": ""
+    },
+    {
+      "username": "user2",
+      "password": "1234",
+      "expiry": "2026-04-25",
+      "deviceId": ""
     }
   ]
 }
