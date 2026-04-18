@@ -9,6 +9,14 @@
       "priority": 1
     },
     {
+      "username": "Tenta",
+      "password": "5678",
+      "expiry": "2026-05-01",
+      "deviceId": "",
+      "role": "normal",
+      "priority": 2
+    },
+    {
       "username": "user2",
       "password": "5678",
       "expiry": "2026-05-01",
