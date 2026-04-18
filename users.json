@@ -4,37 +4,25 @@
       "username": "user1",
       "password": "1234",
       "expiry": "2026-04-25",
-      "deviceId": ""
-    },
-     {
-      "username": "user2",
-      "password": "1234",
-      "expiry": "2026-04-25",
-      "deviceId": ""
+      "deviceId": "",
+      "role": "vip",
+      "priority": 1
     },
     {
       "username": "user2",
-      "password": "1234",
-      "expiry": "2026-04-25",
-      "deviceId": ""
+      "password": "5678",
+      "expiry": "2026-05-01",
+      "deviceId": "",
+      "role": "normal",
+      "priority": 2
     },
     {
-      "username": "user2",
-      "password": "1234",
-      "expiry": "2026-04-25",
-      "deviceId": ""
-    },
-    {
-      "username": "user2",
-      "password": "1234",
-      "expiry": "2026-04-25",
-      "deviceId": ""
-    },
-    {
-      "username": "user22",
-      "password": "1234",
-      "expiry": "2026-04-25",
-      "deviceId": ""
+      "username": "ros",
+      "password": "1111",
+      "expiry": "2026-06-01",
+      "deviceId": "",
+      "role": "normal",
+      "priority": 3
     }
   ]
 }
