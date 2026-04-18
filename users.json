@@ -1,52 +1,12 @@
 {
   "users": [
     {
-      "username": "user1",
-      "password": "1234",
-      "expiry": "2026-04-25",
-      "deviceId": "",
-      "role": "vip",
-      "priority": 1
-    },
-    {
       "username": "Tenta",
       "password": "5678",
       "expiry": "2026-05-01",
       "deviceId": "",
       "role": "normal",
       "priority": 2
-    },
-    {
-      "username": "user2",
-      "password": "5678",
-      "expiry": "2026-05-01",
-      "deviceId": "",
-      "role": "normal",
-      "priority": 2
-    },
-    {
-      "username": "user234",
-      "password": "5678",
-      "expiry": "2026-05-01",
-      "deviceId": "",
-      "role": "normal",
-      "priority": 2
-    },
-    {
-      "username": "user432",
-      "password": "5678",
-      "expiry": "2026-05-01",
-      "deviceId": "",
-      "role": "normal",
-      "priority": 2
-    },
-    {
-      "username": "ros",
-      "password": "1111",
-      "expiry": "2026-06-01",
-      "deviceId": "",
-      "role": "normal",
-      "priority": 3
     }
   ]
 }
