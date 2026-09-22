@@ -10,3 +10,15 @@
     }
   ]
 }
+{
+  "users": [
+    {
+      "username": "Sushant",
+      "password": "1",
+      "expiry": "2027-05-01",
+      "deviceId": "",
+      "role": "normal",
+      "priority": 2
+    }
+  ]
+}
