@@ -7,11 +7,7 @@
       "deviceId": "",
       "role": "normal",
       "priority": 2
-    }
-  ]
-}
-{
-  "users": [
+    },
     {
       "username": "Sushant",
       "password": "1",
